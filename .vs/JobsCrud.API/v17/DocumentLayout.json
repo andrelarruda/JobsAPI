@@ -1,0 +1,171 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\AAMentoria LuisDev\\Code\\JobsCrud.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{542D1017-9508-430A-9A17-2BC30C89FF7B}|JobsCrud.API\\JobsCrud.API.csproj|d:\\aamentoria luisdev\\code\\jobscrud.api\\jobscrud.api\\repository\\jobrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{542D1017-9508-430A-9A17-2BC30C89FF7B}|JobsCrud.API\\JobsCrud.API.csproj|solutionrelative:jobscrud.api\\repository\\jobrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{542D1017-9508-430A-9A17-2BC30C89FF7B}|JobsCrud.API\\JobsCrud.API.csproj|d:\\aamentoria luisdev\\code\\jobscrud.api\\jobscrud.api\\controllers\\jobcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{542D1017-9508-430A-9A17-2BC30C89FF7B}|JobsCrud.API\\JobsCrud.API.csproj|solutionrelative:jobscrud.api\\controllers\\jobcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{542D1017-9508-430A-9A17-2BC30C89FF7B}|JobsCrud.API\\JobsCrud.API.csproj|d:\\aamentoria luisdev\\code\\jobscrud.api\\jobscrud.api\\repository\\ijobrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{542D1017-9508-430A-9A17-2BC30C89FF7B}|JobsCrud.API\\JobsCrud.API.csproj|solutionrelative:jobscrud.api\\repository\\ijobrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{542D1017-9508-430A-9A17-2BC30C89FF7B}|JobsCrud.API\\JobsCrud.API.csproj|d:\\aamentoria luisdev\\code\\jobscrud.api\\jobscrud.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{542D1017-9508-430A-9A17-2BC30C89FF7B}|JobsCrud.API\\JobsCrud.API.csproj|solutionrelative:jobscrud.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{542D1017-9508-430A-9A17-2BC30C89FF7B}|JobsCrud.API\\JobsCrud.API.csproj|d:\\aamentoria luisdev\\code\\jobscrud.api\\jobscrud.api\\data\\apicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{542D1017-9508-430A-9A17-2BC30C89FF7B}|JobsCrud.API\\JobsCrud.API.csproj|solutionrelative:jobscrud.api\\data\\apicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{542D1017-9508-430A-9A17-2BC30C89FF7B}|JobsCrud.API\\JobsCrud.API.csproj|d:\\aamentoria luisdev\\code\\jobscrud.api\\jobscrud.api\\dtos\\jobdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{542D1017-9508-430A-9A17-2BC30C89FF7B}|JobsCrud.API\\JobsCrud.API.csproj|solutionrelative:jobscrud.api\\dtos\\jobdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{542D1017-9508-430A-9A17-2BC30C89FF7B}|JobsCrud.API\\JobsCrud.API.csproj|d:\\aamentoria luisdev\\code\\jobscrud.api\\jobscrud.api\\models\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{542D1017-9508-430A-9A17-2BC30C89FF7B}|JobsCrud.API\\JobsCrud.API.csproj|solutionrelative:jobscrud.api\\models\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{5a4e9529-b6a0-46b5-be4f-0f0b239bc0eb}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JobRepository.cs",
+              "DocumentMoniker": "D:\\AAMentoria LuisDev\\Code\\JobsCrud.API\\JobsCrud.API\\Repository\\JobRepository.cs",
+              "RelativeDocumentMoniker": "JobsCrud.API\\Repository\\JobRepository.cs",
+              "ToolTip": "D:\\AAMentoria LuisDev\\Code\\JobsCrud.API\\JobsCrud.API\\Repository\\JobRepository.cs",
+              "RelativeToolTip": "JobsCrud.API\\Repository\\JobRepository.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAWwFIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T18:42:31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IJobRepository.cs",
+              "DocumentMoniker": "D:\\AAMentoria LuisDev\\Code\\JobsCrud.API\\JobsCrud.API\\Repository\\IJobRepository.cs",
+              "RelativeDocumentMoniker": "JobsCrud.API\\Repository\\IJobRepository.cs",
+              "ToolTip": "D:\\AAMentoria LuisDev\\Code\\JobsCrud.API\\JobsCrud.API\\Repository\\IJobRepository.cs",
+              "RelativeToolTip": "JobsCrud.API\\Repository\\IJobRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T18:40:41.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApiContext.cs",
+              "DocumentMoniker": "D:\\AAMentoria LuisDev\\Code\\JobsCrud.API\\JobsCrud.API\\Data\\ApiContext.cs",
+              "RelativeDocumentMoniker": "JobsCrud.API\\Data\\ApiContext.cs",
+              "ToolTip": "D:\\AAMentoria LuisDev\\Code\\JobsCrud.API\\JobsCrud.API\\Data\\ApiContext.cs",
+              "RelativeToolTip": "JobsCrud.API\\Data\\ApiContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T18:36:23.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JobDto.cs",
+              "DocumentMoniker": "D:\\AAMentoria LuisDev\\Code\\JobsCrud.API\\JobsCrud.API\\Dtos\\JobDto.cs",
+              "RelativeDocumentMoniker": "JobsCrud.API\\Dtos\\JobDto.cs",
+              "ToolTip": "D:\\AAMentoria LuisDev\\Code\\JobsCrud.API\\JobsCrud.API\\Dtos\\JobDto.cs",
+              "RelativeToolTip": "JobsCrud.API\\Dtos\\JobDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T18:12:59.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JobController.cs",
+              "DocumentMoniker": "D:\\AAMentoria LuisDev\\Code\\JobsCrud.API\\JobsCrud.API\\Controllers\\JobController.cs",
+              "RelativeDocumentMoniker": "JobsCrud.API\\Controllers\\JobController.cs",
+              "ToolTip": "D:\\AAMentoria LuisDev\\Code\\JobsCrud.API\\JobsCrud.API\\Controllers\\JobController.cs",
+              "RelativeToolTip": "JobsCrud.API\\Controllers\\JobController.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAADwv0oAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T17:59:31.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Job.cs",
+              "DocumentMoniker": "D:\\AAMentoria LuisDev\\Code\\JobsCrud.API\\JobsCrud.API\\Models\\Job.cs",
+              "RelativeDocumentMoniker": "JobsCrud.API\\Models\\Job.cs",
+              "ToolTip": "D:\\AAMentoria LuisDev\\Code\\JobsCrud.API\\JobsCrud.API\\Models\\Job.cs",
+              "RelativeToolTip": "JobsCrud.API\\Models\\Job.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T18:10:54.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\AAMentoria LuisDev\\Code\\JobsCrud.API\\JobsCrud.API\\Program.cs",
+              "RelativeDocumentMoniker": "JobsCrud.API\\Program.cs",
+              "ToolTip": "D:\\AAMentoria LuisDev\\Code\\JobsCrud.API\\JobsCrud.API\\Program.cs",
+              "RelativeToolTip": "JobsCrud.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T17:56:45.845Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

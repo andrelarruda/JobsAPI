@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JobsCrud.API", "JobsCrud.API\JobsCrud.API.csproj", "{542D1017-9508-430A-9A17-2BC30C89FF7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{542D1017-9508-430A-9A17-2BC30C89FF7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{542D1017-9508-430A-9A17-2BC30C89FF7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{542D1017-9508-430A-9A17-2BC30C89FF7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{542D1017-9508-430A-9A17-2BC30C89FF7B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2DB48568-A254-4E68-AD61-E8248E87EFB7}
+	EndGlobalSection
+EndGlobal
