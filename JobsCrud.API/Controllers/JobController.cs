@@ -34,7 +34,7 @@ namespace JobsCrud.API.Controllers
             }
             catch (KeyNotFoundException ex)
             {
-                return new BadRequestObjectResult(ex.Message);
+                return new NotFoundObjectResult(ex.Message);
             }
         }
 
@@ -44,7 +44,7 @@ namespace JobsCrud.API.Controllers
             try
             {
                 _jobRepository.CreateJob(jobDto);
-                return new OkObjectResult(jobDto);
+                return new CreatedResult();
             }
             catch (Exception ex)
             {
@@ -63,7 +63,7 @@ namespace JobsCrud.API.Controllers
             }
             catch (KeyNotFoundException ex)
             {
-                return new BadRequestObjectResult(ex.Message);
+                return new NotFoundObjectResult(ex.Message);
             }
         }
 
@@ -73,9 +73,12 @@ namespace JobsCrud.API.Controllers
             try
             {
                 var result = _jobRepository.UpdateJob(id, new Job(jobDto.Title, jobDto.Description, jobDto.Location, jobDto.Salary));
-                return new OkObjectResult(result);
+                return new NoContentResult();
             }
             catch (KeyNotFoundException ex)
+            {
+                return new NotFoundObjectResult(ex.Message);
+            } catch(Exception ex)
             {
                 return new BadRequestObjectResult(ex.Message);
             }
